@@ -1,0 +1,7 @@
+streamlit
+QuantLib-Python
+yfinance
+plotly
+pandas
+numpy
+scipy
