@@ -72,4 +72,10 @@ Once the SABR skeleton is calibrated, we apply the Dupire Mapping to generate a 
 For a deep dive into the mathematical derivations and model dynamics, read the full white paper:
 👉 **[Download Technical White Paper (PDF)](SABR.pdf)**
 
+
+**Visual Demo**
+<img width="3024" height="1964" alt="Screenshot 2026-02-13 at 4 56 01 PM" src="https://github.com/user-attachments/assets/c2d72347-fe64-4bba-9ecb-f7a5d462ae80" />
+<img width="3024" height="1964" alt="Screenshot 2026-02-13 at 4 55 46 PM" src="https://github.com/user-attachments/assets/35b6ab2d-3090-493d-b68e-7ff9586dc305" />
+
+
 ---
